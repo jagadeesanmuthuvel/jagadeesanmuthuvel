@@ -3,12 +3,12 @@ My name is jagadeesan :smiley:, a data science student :man_student: from Greatl
 
 I've 2.3 years of experiance in Tata Consultancy services :office:, cyber security engineer :man_technologist:	speacialized on splunk Data(Log) engineering and development of dashbords :chart_with_upwards_trend: for network security and vulnerablity management usecases.
 
-Love :heart: towards playing with data and python made me to transition cyber security :shield:-> Data Science :bar_chart:
+Love :heart: towards playing with data and python made me to transition from cyber security :shield:-> Data Science :bar_chart:
 ## 🎓 Certification & Education
   <ul>
-<li> <a href='https://eportfolio.greatlearning.in/jagadeesan-muthuvel'>Post graduate program in Datascience and engineering(FullTime) - GreatLakes Institute of Management</a>
+<li> <a href='https://eportfolio.greatlearning.in/jagadeesan-muthuvel'>Post Graduate Program in Datascience and Engineering(FullTime) - GreatLakes Institute of Management</a> 
   </li>
-    <li> <a href='https://googlecloudcertified.credential.net/profile/48f4a48ec62c3677780b1d464bf8c5d2642693b1'>Google Cloud - Associate Cloud Engineer</a>
+    <li> <a href='https://googlecloudcertified.credential.net/profile/48f4a48ec62c3677780b1d464bf8c5d2642693b1'>Google Cloud - Associate Cloud Engineer</a> 
   </li>  
 <li> <a href='https://www.linkedin.com/in/jagadeesan-muthuvel'>Bachelor of Computer Application(2016-2019) - Kongu arts and science college,Erode</a>
   </li>
