@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is jagadeesan. I'm a data science student from Greatlakes institute of management and have 2.3 years of experiance in Tata Consultancy services,
-speacialized on splunk log(Data) engineering and development of dashbords for network security and vulnerablity management usecases.
+My name is jagadeesan. I'm a data science student from Greatlakes institute of management and have 2.3 years of experiance in Tata Consultancy services, cyber security engineer
+speacialized on splunk Data(Log) engineering and development of dashbords for network security and vulnerablity management usecases.
 
 ## 🎓 Certification & Education
   <ul>
