@@ -1,5 +1,5 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is jagadeesan :smiley:, a data science student :man_student: from Greatlakes institute of management. I am From India 🏡.
+My name is jagadeesan :smiley:, a data science student :man_student: from GreatLakes institute of management. I am From India 🏡.
 
 I've 2.3 years of experiance in Tata Consultancy services :office:, cyber security engineer :man_technologist:	speacialized on splunk Data(Log) engineering and development of dashbords :chart_with_upwards_trend: for network security and vulnerablity management usecases.
 
