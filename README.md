@@ -43,12 +43,12 @@ Love :heart: towards playing with data and python made me to transition from cyb
 <!--
 ![jagadeesan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jagadeesanmuthuvel&count_private=true&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jagadeesanmuthuvel&count_private=true&langs_count=8)](https://github.com/jagadeesanmuthuvel/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jagadeesanmuthuvel&count_private=true&langs_count=7)](https://github.com/jagadeesanmuthuvel/github-readme-stats)
 cache_seconds
 -->
 
 <a href="https://github.com/jagadeesanmuthuvel/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jagadeesanmuthuvel&count_private=true&show_icons=true&theme=radical&cache_seconds=14000"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jagadeesanmuthuvel&count_private=true&show_icons=true&theme=radical&cache_seconds=15000"/>
 </a>
 
 <a href="https://github.com/jagadeesanmuthuvel/github-readme-stats">
