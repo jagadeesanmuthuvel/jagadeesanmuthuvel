@@ -1,9 +1,9 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is jagadeesan :smiley:, a data science student :man_student: from GreatLakes institute of management. I am From India 🏡.
+My name is jagadeesan :smiley:, a data scientist :man_student: From India 🏡.
 
-I've 2.3 years of experiance in Tata Consultancy services :office:, cyber security engineer :man_technologist:	speacialized on splunk Data(Log) Analytics and development of dashbords :chart_with_upwards_trend: for network security and vulnerablity management usecases.
+I've 6+ years of experiance in Analytics space :office:, :man_technologist:	speacialized on Machine learning,  :chart_with_upwards_trend: Data annalysis, MLOPS.
 
-Love :heart: towards playing with data and python made me to transition from cyber security :shield:-> Data Science :bar_chart:
+Love :heart: towards playing with data and python made me to be :shield:-> Data Scientist :bar_chart:
 ## 🎓 Certification & Education
   <ul>
 <li> <a href='https://eportfolio.greatlearning.in/jagadeesan-muthuvel'>Post Graduate Program in Datascience and Engineering(FullTime) - GreatLakes Institute of Management</a> 
